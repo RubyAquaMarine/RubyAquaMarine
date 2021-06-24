@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RubyAquaMarine
 - 👀 I’m interested in rubies
 - 🌱 I’m currently learning mining
-- 💞️ I’m looking to collaborate on importing/exporting gems
+- 💞️ I’m looking to collaborate on swapping gems
 - 📫 How to reach me aquamarine@ruby.exchange
 - [Ruby.Exchange](https://ruby.exchange)
